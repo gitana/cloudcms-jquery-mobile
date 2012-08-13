@@ -1,0 +1,13 @@
+body {
+    background: #dddddd;
+}
+
+.ui-li-thumb, .ui-listview .ui-li-icon {
+    width : 80px;
+    height: 80px;
+}
+
+.footer-examples p {
+    text-align: center;
+}
+

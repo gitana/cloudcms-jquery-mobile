@@ -9,7 +9,7 @@ mobile projects with Cloud CMS platform as their content platform.
 
 ### Resources
 
-* Hosted Examples: http://http://code.cloudcms.com/jquery-mobile/
+* Hosted Examples: http://code.cloudcms.com/jquery-mobile/
 * Cloud CMS: http://www.cloudcms.com
 * Git Hub: http://github.com/gitana/cloudcms-jquery-mobile
 * JavaScript Driver: http://code.cloudcms.com/javascript-driver
